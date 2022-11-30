@@ -13,7 +13,7 @@ $ npm install react-truncate
 
 ## Usage
 ```js
-import Truncate from 'react-truncate';
+import Truncate from '@pezhmanparsaee/react-truncate';
 
 // ...
 
@@ -64,7 +64,7 @@ Hint: (Generally with React) if you want to preserve newlines from plain text, y
 ```js
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Truncate from 'react-truncate';
+import Truncate from '@pezhmanparsaee/react-truncate';
 
 class ReadMore extends Component {
     constructor(...args) {
