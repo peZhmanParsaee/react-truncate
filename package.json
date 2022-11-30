@@ -1,5 +1,5 @@
 {
-  "name": "react-truncate",
+  "name": "@pezhmanparsaee/react-truncate",
   "version": "2.4.0",
   "description": "React component for truncating multi-line spans and adding an ellipsis",
   "main": "lib/Truncate.CommonJS.js",
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pablosichert/react-truncate.git"
+    "url": "git@github.com:pezhmanparsaee/react-truncate.git"
   },
-  "homepage": "https://github.com/pablosichert/react-truncate",
+  "homepage": "https://github.com/pezhmanparsaee/react-truncate",
   "keywords": [
     "react",
     "truncate",
@@ -32,7 +32,7 @@
   "license": "ISC",
   "peerDependencies": {
     "prop-types": "<= 15.x.x",
-    "react": "<= 17.x.x"
+    "react": "<= 18.x.x"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
